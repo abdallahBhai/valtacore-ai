@@ -28,3 +28,8 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# FORGE (Gradle/Android)
+forge/.gradle/
+forge/**/build/
+forge/local.properties

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">
+        FORGE uses this only to know when a restricted app or site category is
+        opened, so it can show your Checkpoint. It never reads screen content,
+        messages, or passwords. Everything stays on this device.
+    </string>
+</resources>
